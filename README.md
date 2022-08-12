@@ -1,4 +1,4 @@
-### Hi there 👋
+### 공부했던걸 기록하는 공간
 
 <!--
 **overaction/overaction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
